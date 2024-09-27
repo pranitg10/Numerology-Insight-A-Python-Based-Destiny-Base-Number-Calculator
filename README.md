@@ -8,9 +8,9 @@ This project uses basic arithmetic and numerological logic to provide users with
 
 ### Features
 
-**Destiny Number Calculation:** Enter your date of birth, and the calculator will compute your Destiny number, revealing aspects of your personality, such as leadership, spirituality, and more.
-**Base Number Calculation:** The calculator also derives your Base number, representing your core characteristics.
-**Numerological Interpretations:** After calculating your numbers, the tool provides a description of what each number signifies, offering insights into traits like stability, compassion, or success.
+- **Destiny Number Calculation:** Enter your date of birth, and the calculator will compute your Destiny number, revealing aspects of your personality, such as leadership, spirituality, and more.
+- **Base Number Calculation:** The calculator also derives your Base number, representing your core characteristics.
+- **Numerological Interpretations:** After calculating your numbers, the tool provides a description of what each number signifies, offering insights into traits like stability, compassion, or success.
 
 ### How It Works
 
