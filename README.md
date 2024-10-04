@@ -2,7 +2,7 @@
 
 ### Overview
 
-Numerology Insight is an interactive Python application that helps users calculate their Destiny and Base numbers based on their birthdate. 
+Numerology Insight is an interactive Python calculator that helps users calculate their Destiny and Base numbers based on their birthdate. 
 Numerology is an ancient practice that associates numbers with specific personality traits and life paths. 
 This project uses basic arithmetic and numerological logic to provide users with insights about their personality and life journey.
 
